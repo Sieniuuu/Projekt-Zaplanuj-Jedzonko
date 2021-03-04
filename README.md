@@ -12,12 +12,12 @@ managing the meal list for the logged in user
 
 # Technologies:
 
-Java - DAO Pattern
-Servlets
-MySql
-JSP
-Html&Css
-MySQL
+- Java - DAO Pattern
+- Servlets
+- MySql
+- JSP
+- Html&Css
+- MySQL
 
 # Contact:
 
